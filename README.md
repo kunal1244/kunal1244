@@ -3,7 +3,7 @@
 <h3> About Me </h3>
 
 - Full-Stack Developer, always looking for opportunities to build impactful and open-sourced software .
-- Studying Mathematics and Computer Science at Indian Institue of Technology (IIT) Kharagpur.
+- Studying Mathematics and Computer Science at Indian Institute of Technology (IIT) Kharagpur.
 - Learning more about Computer Networking, System Scalability and Cloud Architecture.
 - Sports Geek, Hiphop Head, avid Sporcler, and on-and-off blogger.
 
@@ -17,7 +17,7 @@
 - <b>Languages</b> - JavaScript | Python | C++ | Golang | Java
 - <b>Frameworks</b>  Node.js | ReactJS | GatsbyJS
 - <b>DBMS</b> - mySQL | Postgresql | MongoDB | Redis
-- <b>Tools</b> - Docker | Kubernetes | Jenkins | GraphQL | Git | Markdown | Selenium | 
+- <b>Tools</b> - Docker | Kubernetes | Jenkins | GraphQL | Git | Markdown | Selenium | Jest
 - <b>Cloud Providers</b> - AWS| Google Cloud | DigitalOcean
 
 <br/>
