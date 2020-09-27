@@ -1,4 +1,4 @@
-### Hey there! This is Kunal. 👋
+# Hey there! This is Kunal. 👋
 
 <h3> About Me </h3>
 
