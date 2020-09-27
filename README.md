@@ -1,8 +1,6 @@
 ### Hey there! This is Kunal. 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal1244&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal1244)](https://github.com/anuraghazra/github-readme-stats)
+![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal1244&count_private=true&include_all_commits=true)
 
 <!--
 **kunal1244/kunal1244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
