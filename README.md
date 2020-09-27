@@ -17,7 +17,7 @@
 - <b>Languages</b> - JavaScript | Python | C++ | Golang | Java
 - <b>Frameworks</b>  Node.js | ReactJS | GatsbyJS
 - <b>DBMS</b> - mySQL | Postgresql | MongoDB | Redis
-- <b>Tools</b> - Git | Markdown | Selenium | Docker | Kubernetes | Jenkins | GraphQL
+- <b>Tools</b> - Docker | Kubernetes | Jenkins | GraphQL | Git | Markdown | Selenium | 
 - <b>Cloud Providers</b> - AWS| Google Cloud | DigitalOcean
 
 <br/>
