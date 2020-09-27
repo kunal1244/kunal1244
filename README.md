@@ -1,5 +1,7 @@
 ### Hey there! This is Kunal. 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal1244&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal1244)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
