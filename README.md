@@ -14,11 +14,11 @@
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=kunal1244&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
 
 
-- <b>Languages</b> - JavaScript | Python | C++ | Golang | Java | PHP
+- <b>Languages</b> - JavaScript | Python | C++ | Golang | Java
 - <b>Frameworks</b>  Node.js | ReactJS | GatsbyJS
 - <b>DBMS</b> - mySQL | Postgresql | MongoDB | Redis
 - <b>Tools</b> - Git | Markdown | Selenium | Docker | Kubernetes | Jenkins | GraphQL
-- <b>Cloud Providers</b> - AWS| Google Cloud | DigitalOcean | Heroku
+- <b>Cloud Providers</b> - AWS| Google Cloud | DigitalOcean
 
 <br/>
 
