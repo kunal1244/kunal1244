@@ -1,18 +1,27 @@
 ### Hey there! This is Kunal. 👋
 
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal1244&count_private=true&include_all_commits=true)
+<h3> About Me </h3>
 
-<!--
-**kunal1244/kunal1244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Full-Stack Developer, always looking for opportunities to build impactful and open-sourced software .
+- Studying Mathematics and Computer Science at Indian Institue of Technology (IIT) Kharagpur.
+- Learning more about Computer Networking, System Scalability and Cloud Architecture.
+- Sports Geek, Hiphop Head, avid Sporcler, and on-and-off blogger.
 
-Here are some ideas to get you started:
+<h3> Tech Stack</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Languages</b> - JavaScript | Python | C++ | Golang | Java | PHP
+- <b>Frameworks</b>  Node.js | ReactJS | GatsbyJS
+- <b>DBMS</b> - mySQL | Postgresql | MongoDB | Redis
+- <b>Tools</b> Git | Markdown | Selenium | Docker | Kubernetes | Jenkins | GraphQL
+- <b>Cloud Providers</b> AWS| Google Cloud | DigitalOcean | Heroku
+
+<br/>
+
+[![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunal1244&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+<a href="https://linkedin.com/in/kunal1244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunal1244" height="30" width="30" /></a>
+<a href="https://twitter.com/kunal1244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kunal1244" height="30" width="30" /></a>
+<a href="https://fb.com/kunal1244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kunal1244" height="30" width="30" /></a
+</p>
