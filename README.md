@@ -11,7 +11,7 @@
 <h3> Tech Stack</h3>
 
 
-<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=kunal1244&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=kunal1244&count_private=true&show_icons=true&theme=dark&include_all_commits=true"></img>
 
 
 - <b>Languages</b> - JavaScript | Python | C++ | Golang | Java
