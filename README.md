@@ -4,7 +4,7 @@
 
 - Full-Stack Developer, always looking for opportunities to build impactful and open-sourced software .
 - Studying Mathematics and Computer Science at Indian Institute of Technology (IIT) Kharagpur.
-- Learning more about Computer Networking, System Scalability and Cloud Architecture.
+- Learning more about Distributed Systems, Parallel Computing, and Cloud Architecture.
 - Sports Geek, Hiphop Head, avid Sporcler, and on-and-off blogger.
 
 
